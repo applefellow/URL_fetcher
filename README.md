@@ -6,7 +6,7 @@ eg: python3 af@url_fetcher.py -u https://www.google.com<br/>
 eg: python3 af@url_fetcher.py -l urls.txt (This file contains bulk amount of urls)<br/>
 This tool is developed in python3. it uses threads for fast scan.The tool finding url's from the source code of the given website url.<br />
 url_fetcher has currently only 3 flags '-u' for single target and '-l' for target list and '-h' for help.<br/>
-updation will be available in futer.<br/> 
+updation will be available in future.<br/> 
 
 ![](imgs/single_url.png)
 ![](imgs/urls.png)
